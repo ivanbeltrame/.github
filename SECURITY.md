@@ -4,7 +4,7 @@
 
 ### Where to Report
 
-If you discover a security vulnerability, please report it by email to [security@ivanbeltrame.com](mailto:security@ivanbeltrame.com), as specified in the `security.txt` file.
+If you discover a security vulnerability, please report it by email to [security@ivanbeltrame.com](mailto:security@ivanbeltrame.com).
 
 ### What to Include
 
